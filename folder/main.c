@@ -6,7 +6,9 @@
 #include "function.h"
 int main(){
       //  Menu1();
-      Login();
+      show_supplier();
+      //delete_supplier();
+      //Login();
  //add_supplier();
    // add_product();
    //modify_product();

@@ -15,6 +15,8 @@ void add_product();
 void delete_product();
 void modify_product();
 void add_supplier();
+void delete_supplier();
+void show_supplier();
 
 #endif // FUNCTION_H_INCLUDED
 
